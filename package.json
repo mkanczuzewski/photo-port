@@ -2,13 +2,13 @@
   "name": "photo-port",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://mkanczuzewski.github.io/photo-port",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "web-vitals": "^2.1.4",
-    "homepage": "http://mkanczuzewski.github.io/photo-port"
   },
   "scripts": {
     "start": "react-scripts start",
